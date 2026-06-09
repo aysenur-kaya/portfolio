@@ -31,6 +31,9 @@ export const metadata: Metadata = {
     "freelance",
   ],
   authors: [{ name: "Ayşenur" }],
+  verification: {
+    google: "MwzSgDXu_x4ylgE8xGrHxqNSvXiBcHjx3A5rmBrA_S4",
+  },
   openGraph: {
     title: "Ayşenur | Frontend, Backend, SEO & Digital Design",
     description:

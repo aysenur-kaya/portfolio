@@ -1,0 +1,6 @@
+# https://portfolio-jade-theta-65.vercel.app
+
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio-jade-theta-65.vercel.app/sitemap.xml

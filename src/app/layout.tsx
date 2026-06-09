@@ -17,9 +17,9 @@ const spaceGrotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Ayşenur | Frontend, Backend, SEO & Digital Design",
+  title: "Ayşenur Kaya | Full Stack Developer & Web Designer",
   description:
-    "Ayşenur - Modern web siteleri, e-ticaret sistemleri ve dijital tasarımlar geliştiriyorum. Frontend, backend, SEO ve grafik tasarım alanlarında profesyonel freelance hizmetler.",
+    "Modern, responsive ve SEO uyumlu web siteleri geliştiren Full Stack Developer. Next.js, React, frontend, backend ve dijital tasarım alanlarında freelance çözümler sunuyorum.",
   keywords: [
     "Ayşenur",
     "web geliştirici",

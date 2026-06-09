@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
+import { siteUrl } from "@/lib/site";
 import "./globals.css";
 
 const inter = Inter({
@@ -15,6 +16,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: "Ayşenur | Frontend, Backend, SEO & Digital Design",
   description:
     "Ayşenur - Modern web siteleri, e-ticaret sistemleri ve dijital tasarımlar geliştiriyorum. Frontend, backend, SEO ve grafik tasarım alanlarında profesyonel freelance hizmetler.",
